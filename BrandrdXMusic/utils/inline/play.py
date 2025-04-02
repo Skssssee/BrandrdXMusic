@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/none"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
             ),
             InlineKeyboardButton(
                 text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
@@ -90,7 +90,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/none"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
             ),
             InlineKeyboardButton(
                 text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"

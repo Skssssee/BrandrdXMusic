@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/none"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/none"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -248,7 +248,7 @@ def stream_markup2(_, chat_id):
                 text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING8"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/BRANDED_WORLD"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
             ),
         ],
 

@@ -245,7 +245,7 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING8"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/none"
             ),
             InlineKeyboardButton(
                 text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/best_friends_chatting_grpz2"
